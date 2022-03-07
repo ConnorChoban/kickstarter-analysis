@@ -1,6 +1,6 @@
 # Kickstarting with Excel
 
-#Overview of Project
+Overview of Project
 
 Our client Louise has started a Kickstarter campaign in order to raise funds to produce her play. She's tasked us with compiling data about preexisting kickstarter campaigns in order to provide insights into which factors affect whether a campaign is successful or not. By analyzing the launch date of each campaign and their respective funding goals, we can make several recommendations to Louise.
 
@@ -20,7 +20,7 @@ We created a PivotTable using the variables "Outcomes" and "Date Created" to det
 
 #Analysis of Outcomes Based on Goals
 
-![Outcomes vs Goals](![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99847786/156955853-580b5938-03b5-4bad-807f-9aae96a71656.png)
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/99847786/156955853-580b5938-03b5-4bad-807f-9aae96a71656.png)
 
 To visualize the relationship between a campaign's funding goal and it's success rate, we also created a PivotTable and corresponding chart. We can see that there's a negative correlation between the amount of funds requested and the success rate, where the higher of a fundraising goal that a campaign has the less likely it is to succeed, with one noticeable exception. Beginning in the range of 30,000 to 34,999 we see that the success rate begins to significantly increase, peaking in between the ranges of 35,000 to 39,999 and 40,000 to 44,999. The success rate then drops down to 0 for the range of 45,000 to 49,999, with some successful campaigns in the 50,000 and above range. 
 
