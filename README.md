@@ -14,7 +14,7 @@ We began our analysis by pulling data about a wide variety of Kickstarter campai
 
 #Analysis of Outcomes Based on Launch Date
 
-![Theater Outcomes vs Launch](![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99847786/156955906-ead1567f-0df6-4dc9-b86d-0b469aee3279.png)
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/99847786/156955906-ead1567f-0df6-4dc9-b86d-0b469aee3279.png)
 
 We created a PivotTable using the variables "Outcomes" and "Date Created" to determine the correlation between the time of the year and a play's potential for success. By looking at both the table and the corresponding chart, we see that there was a moderate amount of fundraising campaigns at the beginning of the year, with the total amount of successful plays peaking in May and slowly decreasing throughtout the rest of the year. Conversely, we can see that the amount of campaigns that failed to reach their intended goal remained relatively stable throughout the year, with fluctuations around September and November. The amount of campaigns that were canceled remained very low, the maximum being 7 in January, and oscillating between 1 and 4 campaigns per month. The spread between "Successful" and "Failed" campaigns is greatest around May, likely due to the high volume of campaigns during this time but may be due to other factors. 
 
